@@ -1,0 +1,3 @@
+Game example - Hearthstone - Damage to creature from creature.
+
+Given each creature is an object with health/attack properties we would run a test that expects when monster A’s  attack function activated against Monster B, Monster B’s health should be equal to its own health value minus Monster A’s Damage value, if this is true test is passed.
